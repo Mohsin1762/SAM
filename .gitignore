@@ -1,0 +1,8 @@
+﻿.venv/
+*.pt
+*.pth
+output_images/
+raw_images/
+__pycache__/
+.idea/
+*.png
